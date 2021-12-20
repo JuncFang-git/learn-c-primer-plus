@@ -1,0 +1,54 @@
+1.
+函数
+
+2.
+语法不符合语言该有的规定，大部分语法错误能够被编译器检查出来
+int a = "dfasd";
+
+3.
+语义上会引起误解或不能表达正确的逻辑
+int large = 0;
+int small = 100;
+
+4.
+#include <stdio.h>
+int main(void){}
+int s;
+s = 56;
+printf("xxx");
+
+答案补充：
+/**/
+%d
+s=52
+
+
+5.
+a : 
+Baa xxx.Have ?
+b : 
+begone !
+O createure of xxxx!
+c:
+Wxxx
+No/nfixxx
+d:
+2 + 2 = 4
+
+6.
+main, int, char, = 
+
+正确答案：
+int char
+
+7.
+printf("There are %d words and %d lines.", words, lines);
+
+8.
+b = 5
+a = 5
+
+9.
+y=15
+x=150
+
